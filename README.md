@@ -24,6 +24,7 @@ Meppadi – Mundakkai – Chooralmala
 - Leaflet.js
 - Chart.js
 - Python
+- Sci-kit Learn
 - FastAPI
 - MySQL
 - Pandas
